@@ -22,7 +22,7 @@ Implement a training loop to minimize the loss function and update the model par
 Test the model using a separate test dataset to evaluate its performance and make necessary adjustments to hyperparameters.
 This project will provide valuable insights into the application of deep learning techniques for image classification tasks.
 
-You can head to Jupyter Notebook which includes all coding and written explanations. 
+# You can head to Jupyter Notebook which includes all coding and written explanations. 
 
 
 
